@@ -2,7 +2,7 @@
 
 ### Userscript to add a comments tab to the main navbar
 
-#### [Install Script](https://github.com/kimpeek/Reddit_Comments_Tab/blob/master/Reddit_Comments_Tab.user.js)
+#### [Install Script](https://github.com/kimpeek/Reddit_Comments_Tab/raw/master/Reddit_Comments_Tab.user.js)
 
 #### [View on Greasyfork](https://greasyfork.org/en/scripts/30221-reddit-profile-hider)
 
