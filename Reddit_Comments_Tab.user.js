@@ -4,7 +4,7 @@
 // @namespace    this_script
 // @version      0.1
 // @description  Add a comments tab to the main nav bar.
-// @author       KimPeek
+// @author       https://github.com/kimpeek
 // @include      https://www.reddit.com*
 // @grant        none
 // ==/UserScript==
