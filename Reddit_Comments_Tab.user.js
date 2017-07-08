@@ -11,8 +11,8 @@
 
 var current_url = document.URL;
 var no_button = new RegExp("comments|inbox|user|overview|prefs|about|message");
-var multireddit = new RegExp("^http(s)?:\/\/www.reddit.com\/me\/m\/[A-Za-z1-9_]+");
-var subreddit = new RegExp("^http(s)?:\/\/www.reddit.com\/r\/[A-Za-z1-9_]+");
+var multireddit = new RegExp("^http(s)?:\/\/www.reddit.com\/me\/m\/[A-Za-z0-9_]+");
+var subreddit = new RegExp("^http(s)?:\/\/www.reddit.com\/r\/[A-Za-z0-9_]+");
 
 function main(){
     // Check if on a page to ignore
