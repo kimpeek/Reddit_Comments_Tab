@@ -43,7 +43,7 @@ function main(){
 
 function create_button(redirect_url){
     var menu = document.getElementsByClassName("tabmenu ")[0];
-    var rising = menu.getElementsByTagName('li')[5];
+    var gilded = menu.getElementsByTagName('li')[5];
     var comments = document.createElement("li");
     var comment_anchor = document.createElement("a");
 
