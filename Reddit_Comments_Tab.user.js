@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Reddit_Comments_Tab
 // @name:en      Reddit_Comments_Tab
-// @namespace    this_script
+// @namespace    Reddit_Comments_Tab
 // @version      0.1
 // @description  Add a comments tab to the main nav bar.
 // @author       https://github.com/kimpeek
