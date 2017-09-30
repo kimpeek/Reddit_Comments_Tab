@@ -2,7 +2,7 @@
 // @name         Reddit_Comments_Tab
 // @name:en      Reddit_Comments_Tab
 // @namespace    Reddit_Comments_Tab
-// @version      0.1
+// @version      0.2
 // @description  Add a comments tab to the main nav bar.
 // @author       https://github.com/kimpeek
 // @include      https://www.reddit.com*
@@ -47,7 +47,7 @@ function create_button(redirect_url){
     var comments = document.createElement("li");
     var comment_anchor = document.createElement("a");
 
-    menu.insertBefore(comments, rising);
+    menu.insertBefore(comments, gilded);
     comments.appendChild(comment_anchor);
     comment_anchor.innerHTML = "comments";
     comment_anchor.setAttribute('href', redirect_url);
